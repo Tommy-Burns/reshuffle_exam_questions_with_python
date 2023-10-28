@@ -1,0 +1,35 @@
+Question 1: Which planet in our solar system is known as the "Red Planet"?
+a) Venus
+b) Mars*
+c) Jupiter
+d) Saturn
+
+Question 2: What is the name of the galaxy that contains our solar system?
+a) Andromeda
+b) Milky Way*
+c) Triangulum
+d) Centaurus A
+
+Question 3: What causes the changing phases of the Moon as observed from Earth?
+a) The Moon's varying distance from Earth
+b) Shadows cast by Earth onto the Moon
+c) The Moon's rotation on its axis
+d) Sunlight falling on different parts of the Moon as it orbits Earth*
+
+Question 4: What is a light-year a measure of?
+a) Time
+b) Distance*
+c) Brightness
+d) Temperature
+
+Question 5: Which of the following is not a type of telescope?
+a) Refractor
+b) Newtonian
+c) Radiospectrometer*
+d) Cassegrain
+
+Question 6: What phenomenon occurs when a planet passes between Earth and the Sun, appearing to move across the Sun's disk?
+a) Solar flare
+b) Solar eclipse
+c) Transit*
+d) Umbra
